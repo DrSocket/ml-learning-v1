@@ -63,9 +63,7 @@ models/
 *.onnx
 *.pt
 *.pth
-*.pkl
-
-# Temporary files
+*.pkl# Temporary files
 *.tmp
 *.temp
 .cache/
